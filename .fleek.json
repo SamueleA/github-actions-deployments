@@ -1,0 +1,14 @@
+{
+  "site": {
+    "id": "ac479657-8598-49c7-888b-2e3ca540c632",
+    "team": "samuele-fleek2-team",
+    "platform": "ipfs",
+    "source": "ipfs",
+    "name": "restless-sun-9261"
+  },
+  "build": {
+    "baseDir": "",
+    "publicDir": "build",
+    "rootDir": ""
+  }
+}
